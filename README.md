@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ascari/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@felipe.ascari_49171)
-[![Website](https://img.shields.io/badge/Website-111827?style=flat&logo=githubpages&logoColor=white)](https://fascari.github.io)
+[![Website](https://img.shields.io/badge/Website-111827?style=flat&logo=githubpages&logoColor=white)](https://felipeascari.dev)
 
 </div>
 
@@ -63,4 +63,4 @@ Each started as a question I could not answer cleanly at work. A repo to isolate
 
 ## Writing
 
-I write about Go internals, concurrency, distributed systems and observability at [fascari.github.io](https://fascari.github.io). Writing helps me think through things I am not fully sure about yet.
+I write about Go internals, concurrency, distributed systems and observability at [felipeascari.dev](https://felipeascari.dev). Writing helps me think through things I am not fully sure about yet.
